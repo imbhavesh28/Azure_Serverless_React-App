@@ -12,7 +12,7 @@
 
 # Application Architecture:
 
-<img src="/Users/bhaveshmali/Desktop/MSFT-Future-Ready-Talent_Project/MSFT_Future_Ready - PROJECT!.drawio.png/" alt="Azure Serverless" style="height: 100px; width:100px;"/>
+<img src="Img/MSFT_Future_Ready - PROJECT!.drawio.png" alt="Azure Serverless" style="height: 100px; width:100px;"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
