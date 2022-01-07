@@ -1,6 +1,7 @@
 # MSFT-Future-Ready-Talent_Project
 
 # Technology Stack:
+
 1. Azure Cosmos DB
 2. Azure Function
 3. Azure API Management
@@ -9,8 +10,9 @@
 6. Azure Blob Storage
 7. Postman
 
-# Application Architecture: 
-<img src="/" alt="Azure Serverless" style="height: 100px; width:100px;"/>
+# Application Architecture:
+
+<img src="/Users/bhaveshmali/Desktop/MSFT-Future-Ready-Talent_Project/MSFT_Future_Ready - PROJECT!.drawio.png/" alt="Azure Serverless" style="height: 100px; width:100px;"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -80,7 +82,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-                                
-                                
-                   
