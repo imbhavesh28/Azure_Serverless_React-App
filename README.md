@@ -1,6 +1,15 @@
 # MSFT-Future-Ready-Talent_Project
 
-# Technology Stack:
+### Project Overview:
+
+### Front-End Code:
+
+### Deployed URL:
+
+### Key Features:
+
+
+### Technology Stack:
 
 1. Azure Cosmos DB
 2. Azure Function
