@@ -6,8 +6,6 @@ This a React Application built using Azure Serverless & Other Azure Technologies
 
 ### Deployed URL:
 
-### Key Features:
-
 
 ### Technology Stack:
 
@@ -17,7 +15,6 @@ This a React Application built using Azure Serverless & Other Azure Technologies
 4. Azure Active Directory B2C
 5. Azure CDN
 6. Azure Blob Storage
-7. Postman
 
 # Application Architecture:
 
