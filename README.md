@@ -1,11 +1,7 @@
-# MSFT-Future-Ready-Talent_Project
+# Azure_Serverless_React-App
 
 ### Project Overview: 
 This a React Application built using Azure Serverless & Other Azure Technologies under the Microsoft Future Ready Talent Program.
-### Front-End Code:
-
-### Deployed URL:
-
 
 ### Technology Stack:
 
